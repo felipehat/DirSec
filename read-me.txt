@@ -1,0 +1,18 @@
+##########################################
+# DirSec v0.1 by felipe unix             #
+# Directory Security                     #
+# versão 0.1                             #
+##########################################
+esse é o manual do programa.
+para instalar o Directory Security execute o arquivo
+installer.sh como root!
+para usar, abra o terminal como root
+e de comando:
+dirsec <caminho/do/diretório> <senha> <0/1>
+no caso, 0 criptografa os arquivos
+do diretório, o 1 descriptografa.
+AVISO: não esqueça a senha, sem ela não
+há como recuperar seus arquivos.
+OBS: o programa não criptografa
+diretórios, mas o que estão
+dentro dele!
